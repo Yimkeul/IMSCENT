@@ -1,8 +1,10 @@
-# IMSCENT
 
-### 사용자 패션정보 기반 향수 추천 서비스
+# IMSCENT <img src="https://github.com/Yimkeul/IMSCENT/assets/43426556/77559b89-3651-4f00-9b4a-5eca43e0e4e4" align=left width =100/> 
+사용자 패션정보 기반 향수 추천 서비스 <br> 과연 내 패션에 어울리는 향은 어떤걸까?<br>
 
-과연 내 패션에 어울리는 향은 어떤걸까?
+
+
+
 
 ### ✨ 공식 사이트
 
@@ -12,8 +14,6 @@
 [‎IMSCENT 임센트](https://apps.apple.com/kr/app/imscent-임센트/id6470936905)
 
 ### 👀 미리보기
-![KakaoTalk_Photo_2023-11-03-13-02-32](https://github.com/Yimkeul/IMSCENT/assets/43426556/77559b89-3651-4f00-9b4a-5eca43e0e4e4)
-
 ![KakaoTalk_Photo_2023-11-03-13-08-45 001](https://github.com/Yimkeul/IMSCENT/assets/43426556/c25a8eff-1528-420c-b019-e5a0003886bb) | ![KakaoTalk_Photo_2023-11-03-13-08-46 002](https://github.com/Yimkeul/IMSCENT/assets/43426556/7504bf2e-038b-4ec1-b2d4-2e44219edb0f)
 ---|---|
 
